@@ -24,4 +24,4 @@ async def on_voice_state_update(member, before, after):
         delay += 10
     
 
-client.run('MTA1Mjk0MTk3NTUyNTAwMzMzNA.GiK244.N2W7Mc6onFp2_j6tgd7BkirxrZ6-pjqK8IeV9c')
+client.run('Token for your bot')
